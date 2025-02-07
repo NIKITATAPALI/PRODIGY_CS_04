@@ -68,12 +68,24 @@ python3 decrypt_logs.py
 ## 📜 License
 This project is licensed under the MIT License.
 
-## ⚠️ Disclaimer
-<i>This project is for **educational purposes only**. Do not use it for unethical activities.</i>
+---
 
 ## 🤝 Contributing
-Want to improve this project? Fork the repository and submit a pull request!
+Want to contribute? Fork the repo and submit a pull request.
 
-## 📢 Contact
-- GitHub: [Your Profile](https://github.com/YourUsername)
-- Email: your@email.com
+---
+
+## 📢 Find Me On:
+<p align="left">
+  <a href="https://github.com/NIKITATAPALI/" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+<i>This project is created for educational purposes only. Ensure compliance with applicable security laws before using this tool.</i>
+
+---
+
+### 🎉 Thanks to all contributors!
