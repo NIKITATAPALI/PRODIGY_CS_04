@@ -17,7 +17,7 @@ This project is an **Advanced Keylogger** written in Python. It logs keystrokes 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/KeyloggerProject.git
+git clone https://github.com/NIKITATAPALI/PRODIGY_CS_04.git
 ```
 
 ### Step 2: Install Dependencies
@@ -27,7 +27,7 @@ pip install pynput pyperclip cryptography
 
 ### Step 3: Run the Keylogger
 ```bash
-python3 keylogger.py
+python keylogger.py
 ```
 
 ---
